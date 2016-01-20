@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/18f/security-group-test-app",
+	"GoVersion": "go1.5.2",
+	"Deps": []
+}
